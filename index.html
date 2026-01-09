@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Jokenpô</h1>
+        <div class="buttons">
+            <button id="rock" onclick="playHuman('rock')">&#x1F44A</button>
+            <button id="paper" onclick="playHuman('paper')">&#x1F590</button>
+            <button id="scissors" onclick="playHuman('scissors')">&#x0270C</button>
+        </div>
+
+        <h2 id="result"></h2>
+
+        <section>
+
+            <p id="score">Placar você: <span id="humanScore">0</span>
+            <h3 id="computador">Computador: <span id="computadorScore">0</span></h3>
+        </section>
+
+    </div>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

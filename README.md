@@ -12,9 +12,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h1>✨ Regras Básicas de Funcionalidade
-O jogo</h1>
+do Jogo</h1>
 
-<p> funciona com três símbolos manuais e suas interações:<p> 
+<p> <b>Funciona com três símbolos manuais e suas interações:<b><p> 
 <li>Pedra (mão fechada) quebra a Tesoura.</li>
 <li>Tesoura (dois dedos esticados) corta o Papel.</li>
 <li>Papel (mão aberta) embrulha a Pedra.</li>

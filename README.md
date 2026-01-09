@@ -19,7 +19,7 @@ do Jogo</h1>
 <li>Tesoura (dois dedos esticados) corta o Papel.</li>
 <li>Papel (mão aberta) embrulha a Pedra.</li>
 <li>Se ambos os jogadores escolherem o mesmo símbolo, a rodada empata.</li>
-<li>Promover Ernteterimento</li>
+<li>Promover Entreterimento</li>
 
 <br>
 

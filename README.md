@@ -1,4 +1,4 @@
-<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/6f277a55-2348-4471-ad43-3aae949a604b" />
+
 <h1>Game Batalhas das Mãos</h1>
 <br>
 <h1>Projeto desenvolvido dentro<a href="https://rodolfomori.com.br"/> devclub</a></h1>
